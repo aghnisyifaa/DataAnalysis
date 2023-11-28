@@ -39,7 +39,7 @@ Bike Rentals - Final Project Data Analytics is the culmination of the "Belajar A
    - Complete the dashboard with various data visualizations
 
 **Getting Started:**
-1. **notebook.ipynb:**
+1. ### `notebook.ipynb`
    - Download the project.
    - Open your favorite IDE like Jupyter Notebook or Google Colaboratory.
    - Create a new notebook.
@@ -47,7 +47,7 @@ Bike Rentals - Final Project Data Analytics is the culmination of the "Belajar A
    - Connect to a hosted runtime.
    - Run the code cells.
 
-2. **dashboard/dashboard.py:**
+2. ### `dashboard/dashboard.py`
    - Download the project.
    - Install Streamlit in your terminal or command prompt using `pip install streamlit`. Install other libraries like pandas, numpy, scipy, matplotlib, and seaborn if not already installed.
    - Keep the csv file in the same folder as dashboard.py as it acts as a data source.
