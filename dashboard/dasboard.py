@@ -68,7 +68,11 @@ max_date = day_df["datetime"].max()
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image(r"C:\Users\ticaf\Downloads\Dicoding\Submission\dashboard\Logo.png")
+    # Membuka gambar logo
+    image = Image.open(r'C:\Users\ticaf\Downloads\Dicoding\Submission\dashboard\Logo.png')
+    
+    # Menampilkan logo
+    st.image(image)
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
