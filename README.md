@@ -49,7 +49,7 @@ Bike Rentals - Final Project Data Analytics is the culmination of the "Belajar A
 
 2. ### `dashboard/dashboard.py`
    - Download the project.
-   - Install Streamlit in your terminal or command prompt using `pip install streamlit`. Install other libraries like pandas, numpy, scipy, matplotlib, and seaborn if not already installed.
+   - Install Streamlit in your terminal or command prompt using `pip install streamlit`. Install other libraries like pandas, numpy, scipy, matplotlib, seaborn, streamlit, babel, and PIL if not already installed.
    - Keep the csv file in the same folder as dashboard.py as it acts as a data source.
    - Open your VSCode and run the file by clicking the terminal and writing `streamlit run dashboard.py`.
 
